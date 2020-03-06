@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:the-catch22-attack/the-catch22-attack.github.io.git
+	branch = master
